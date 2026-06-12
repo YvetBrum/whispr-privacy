@@ -36,7 +36,7 @@
   <p>Je gegevens worden veilig opgeslagen via Supabase, een beveiligd cloudplatform. Locatiegegevens worden niet opgeslagen — die worden alleen gebruikt op het moment dat je een zoekopdracht doet.</p>
 
   <h2>Je rechten</h2>
-  <p>Je kunt je account en alle bijbehorende gegevens op elk moment laten verwijderen. Stuur hiervoor een e-mail naar jouw@emailadres.nl.</p>
+  <p>Je kunt je account en alle bijbehorende gegevens op elk moment laten verwijderen. Stuur hiervoor een e-mail naar yvet.brummelhuis@gmail.com.</p>
 
   <h2>Contact</h2>
   <p>Vragen over dit privacybeleid? Stuur een e-mail naar yvet.brummelhuis@gmail.com.</p>
